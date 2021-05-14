@@ -1870,10 +1870,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.featured {
+		/* .image.featured {
 			display: block;
 			margin: 0 0 2em 0;
-		}
+		} */
 
 			.image.featured img {
 				display: block;
