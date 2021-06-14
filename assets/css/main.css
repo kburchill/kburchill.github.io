@@ -249,7 +249,9 @@ input, select, textarea {
 		}
 
 /* Row */
-
+	.resume {
+		color: white;
+	}
 	.row {
 		display: flex;
 		flex-wrap: wrap;
