@@ -181,10 +181,12 @@ input, select, textarea {
 
 	.container {
 		margin: 0 auto;
-		max-width: 100%;
+		max-width: 75%;
 		width: 1400px;
 	}
-
+	.selfshot {
+		max-width: 75%;
+	}
 		.container.medium {
 			width: 1050px;
 		}
