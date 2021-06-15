@@ -265,6 +265,7 @@ input, select, textarea {
 
 		.row > * {
 			box-sizing: border-box;
+			max-width: 75px;
 		}
 
 		.row.gtr-uniform > * > :last-child {
