@@ -268,7 +268,7 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			max-width: 300px;
+			max-width: 200px;
 		}
 
 		.row.gtr-uniform > * > :last-child {
