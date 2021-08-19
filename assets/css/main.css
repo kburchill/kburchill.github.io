@@ -29,7 +29,9 @@ article, aside, details, figcaption, figure,
 footer, hgroup, menu, nav, section {
 	display: block;}
 header {
-	display: flex
+	display: flex;
+	flex-direction: column;
+	align-items: center;;
 }
 body {
 	line-height: 1;
@@ -187,7 +189,7 @@ input, select, textarea {
 		width: 1400px;
 	}
 	#selfshot {
-		max-width: 50%;
+		max-width: 35%;
 	}
 		.container.medium {
 			width: 1050px;
