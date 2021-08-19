@@ -190,6 +190,11 @@ input, select, textarea {
 	}
 	#selfshot {
 		max-width: 35%;
+		border-radius: 90%;
+	}
+	.banner_name {
+		font-size: 30px;
+		font-weight: 100;
 	}
 		.container.medium {
 			width: 1050px;
